@@ -1,0 +1,36 @@
+Advanced Data Analytics & ML
+
+1️⃣ Time Series Basics (Introduction + Components)
+================================================
+Trend, seasonality, noise
+Stationary vs non-stationary
+Real-world examples (sales, weather, stock data)
+
+
+2️⃣ ARIMA & SARIMA Fundamentals
+=====================================
+Auto-Regressive (AR), Moving Average (MA), Integration (I)
+ACF & PACF plots
+Seasonal modeling (SARIMA)
+
+
+3️⃣ Feature Engineering for Time Series
+=========================================
+Lag features
+Rolling window features
+Date-time decomposition
+
+
+4️⃣ Forecast Evaluation Metrics
+===================================
+MAPE, MAE, RMSE
+Comparing forecasting models
+
+
+5️⃣ Case Study: Sales Forecasting for a Retail Store
+=================================================
+Build baseline model
+Apply ARIMA/SARIMA
+Evaluate & interpret predictions
+
+
